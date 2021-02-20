@@ -1,0 +1,35 @@
+.main-title {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.main-select {
+    padding-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 50px;
+    direction: rtl;
+}
+
+.found-recipes-button {
+    padding-top: 20px;
+    padding-right: 20px;
+    text-align: center;
+    direction: rtl;
+}
+
+.overlay-content {
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.groceries-inputs {
+    font-size: 12px;
+}
+
+.padding-inside-overlay {
+    padding-left: 5px;
+    padding-right: 5px;
+}

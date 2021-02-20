@@ -1,0 +1,17 @@
+.navbar-container {
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr
+}
+
+.navbar-logo {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 20px;
+}
+
+.navbar-menu-icon {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 20px;
+    text-align: right;
+}
